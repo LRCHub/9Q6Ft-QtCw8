@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "マーシャル・マキシマイザー（feat. 可不）",
+  "base_artist": "柊マグネタイト",
+  "createdAt": "2025-12-28T05:13:44.022294Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マーシャル・マキシマイザー (feat. 可不)",
+      "artist": "柊マグネタイト",
+      "has_synced": false,
+      "path": "select/pl_01_マーシャル・マキシマイザー_(feat._可不)_柊マグネタイト.txt"
+    }
+  ]
+}
